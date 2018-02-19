@@ -5,8 +5,7 @@ TierionのHash APIサンプルです。
 
 Windows10 / Visual Studio 2017 Community Edition にて動作確認済。
 
-### 動作方法
-  
+### 動作方法  
 1. GitHubからソースコード一式をcloneしてください。 
 2. Cloneした後に「tierion_hash_api_001.sln」を実行します。
 3. F5キーやMenuの「デバッグ」「デバッグの開始」からデバッグを開始します。
